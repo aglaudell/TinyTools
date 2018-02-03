@@ -1,0 +1,8 @@
+from titlecase import titlecase
+
+# designed to be used as a callback fcn in titlecase
+def ABBR(word, **kwargs):
+  # if entire word is uppercase
+    # return word
+  
+  
